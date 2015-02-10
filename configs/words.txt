@@ -28,4 +28,12 @@ hotmail
 farmville
 webpage
 antivirus
+blog
+wordpress
+irc
+chat
+windows
+google_plus
+mdn
+developer
 
